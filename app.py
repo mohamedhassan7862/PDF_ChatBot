@@ -34,7 +34,7 @@ def get_llm_pipeline():
 # Streamlit UI
 def main():
     st.set_page_config(page_title="PDF Chatbot", page_icon="📄", layout="wide")
-    st.title("📄🗣️ PDF Chatbot with LangChain & Streamlit")
+    st.title("📄🗣️ PDF Chatbot")
 
     # Upload PDF
     uploaded_file = st.file_uploader("Upload a PDF file", type=["pdf"])
