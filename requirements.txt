@@ -6,3 +6,6 @@ pypdf
 transformers
 sentence-transformers
 huggingface-hub
+fastapi
+uvicorn
+python-multipart
