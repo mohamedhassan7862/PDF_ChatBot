@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+pypdf
+transformers
+sentence-transformers
+huggingface-hub
+torch
+fastapi
+uvicorn
+python-multipart
